@@ -1,6 +1,6 @@
 Dies ist ein fortlaufendes Projekt um Einsteigern eine Boilerplate für die Java Spring Boot und Angular Entwicklung zu liefern.
 
-# Requirements
+## Requirements
 (Müssen vorher installiert sein)
 * Git https://git-scm.com/downloads
 * Maven https://maven.apache.org/
@@ -8,16 +8,16 @@ Dies ist ein fortlaufendes Projekt um Einsteigern eine Boilerplate für die Java
 https://jdk.java.net/11/
 * NodeJS https://nodejs.org/en/
 
-#Installation
+##Installation
 Nutze CMD/Terminal oder Shell und führe folgende commandos aus:
 
-Zuerst:
-* git clone ...
-Dann:
+#####Zuerst:
+* git clone https://github.com/haukedau/springstarter.git
+#####Dann:
 * npm install    (Im Folder angular)
 * mvn clean package (im Folder spring-boot-init)
 
-#Starten
+##Starten
 In zwei seperaten cmd bzw. shell
 
 * ng serve (Im Folder angular) Der Angular Development Server startet nun erreichbar unter 
