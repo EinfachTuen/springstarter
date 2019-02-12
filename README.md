@@ -1,14 +1,15 @@
 Dies ist ein fortlaufendes Projekt um Einsteigern eine Boilerplate für die Java Spring Boot und Angular Entwicklung zu liefern.
 
 # Requirements
-(Müssen installiert sein)
+(Müssen vorher installiert sein)
+* Git https://git-scm.com/downloads
 * Maven https://maven.apache.org/
 * Java SDK oder OpenJDK: 
 https://jdk.java.net/11/
 * NodeJS https://nodejs.org/en/
 
 #Installation
-use cmd oder irgend ein terminal oder shell für:
+Nutze CMD/Terminal oder Shell und führe folgende commandos aus:
 
 Zuerst:
 * git clone ...
